@@ -1,0 +1,12 @@
+{
+  "project": "vibe-research-demo",
+  "version": "1.0.0",
+  "created": "2026-10-28",
+  "author": "Vibe Research",
+  "description": "Sample data file to demonstrate file pushing",
+  "items": [
+    {"id": 1, "name": "Item A", "value": 100},
+    {"id": 2, "name": "Item B", "value": 200},
+    {"id": 3, "name": "Item C", "value": 300}
+  ]
+}
